@@ -2,7 +2,7 @@
 
 Turn a Sequelize model into an Express router with CRUD routes in one line.
 
-> **Status: dormant since 2014.** Written by Steven Zeiler on 2014-11-21 (four commits in about 20 minutes, v0.1.2) during his 2014 Ripple Labs era, around payment-gateway work. It targets Sequelize 2.0 release candidates and Express 4.10. It has not been run against current versions, so use it as a reference, not a dependency.
+> **Status: dormant since 2014.** Written by Steven Zeiler on 2014-11-21 (four commits in about 20 minutes, v0.1.2) during his 2014 Ripple Labs era. It targets Sequelize 2.0 release candidates and Express 4.10. It has not been run against current versions, so use it as a reference, not a dependency.
 
 ## Install
 
